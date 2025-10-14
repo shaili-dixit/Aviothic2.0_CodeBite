@@ -11,13 +11,13 @@ It ensures balanced workload distribution, fixed lunch timing, and shuffled free
 
 # 🚀 Features
 
-✅ Input subjects with custom weekly period requirements
-✅ Set subject priorities (for morning slots or before lunch)
-✅ Automatically fixes lunch time
-✅ Shuffles free periods across days
-✅ Generates 10 different timetable variations
-✅ Clean, gradient-styled user interface
-✅ Fully responsive and deployable via Streamlit Cloud
+✅ Input subjects with custom weekly period requirements<br>
+✅ Set subject priorities (for morning slots or before lunch)<br>
+✅ Automatically fixes lunch time<br>
+✅ Shuffles free periods across days<br>
+✅ Generates 10 different timetable variations<br>
+✅ Clean, gradient-styled user interface<br>
+✅ Fully responsive and deployable via Streamlit Cloud<br>
 
 # 🧩 How It Works
 
@@ -68,8 +68,11 @@ All logic, features, and implementation decisions were conceptualized, tested, a
 
 ## 👨‍💻 Author
 
-Your Name Here
-Hackathon Participant — Shaili Dixit / 2nd year , Tanuvanshi Shukla / 2nd year, Rashi Shukla / 2nd year , Sanjana Kanujiya / 2nd year
+Hackathon Participant :— <br>
+-Shaili Dixit / 2nd year <br>
+-Tanuvanshi Shukla / 2nd year <br>
+-Rashi Shukla / 2nd year <br>
+-Sanjana Kanujiya / 2nd year<br>
 📧 Email: 240473@kit.ac.in
 
 
