@@ -11,7 +11,7 @@ st.markdown("""
     * { font-family: 'Poppins', sans-serif; }
 
     body {
-        background: linear-gradient(135deg, #2b10ff, #7147de, #b8a2db);
+        background: linear-gradient(90deg, #e52e71, #ff8a00);
         color: #f5f7fa;
     }
 
@@ -26,7 +26,7 @@ st.markdown("""
         text-align: center;
         font-size: 3rem;
         font-weight: 800;
-        background: linear-gradient(90deg, #ff8a00, #e52e71);
+        background: linear-gradient(90deg, #e52e71, #ff8a00);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
