@@ -56,8 +56,16 @@ You’ll receive 10 randomized, well-balanced timetables to choose from.
 
 
 
+https://github.com/user-attachments/assets/e94674f1-79da-4158-b15f-0ce9484ed62a
+
+
+
 
 ## Screenshot
+<img width="1920" height="898" alt="image" src="https://github.com/user-attachments/assets/5df06789-ae7d-420c-a80d-9e7526b9f100" />
+
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/2afc1e68-050e-4d25-9bb8-3eb29d0d6a23" />
 
 
 
