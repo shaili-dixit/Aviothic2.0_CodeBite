@@ -199,6 +199,6 @@ if st.button(" Generate 10 Timetables"):
                 df = generate_timetable()
                 st.dataframe(df, use_container_width=True)
 
-        st.success("✅ 10 balanced and elegant timetables generated successfully!")
+        st.success("✅ 10 unique timetables generated successfully!")
 
 st.markdown('<p class="footer">© 2025 Team CodeBite | AI Timetable Generator </p>', unsafe_allow_html=True)
